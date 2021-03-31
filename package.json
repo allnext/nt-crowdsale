@@ -1,0 +1,33 @@
+{
+  "name": "nort-token-crowdsale",
+  "version": "1.0.0",
+  "description": "nort token crowd sale smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "keywords": [
+    "nort token",
+    "Ethereum",
+    "binance smart chain",
+    "bnb",
+    "bep20",
+    "solidity"
+  ],
+  "author": "nort",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-solpp": "^2.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.0",
+    "ethereum-waffle": "^3.2.2",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.0.11"
+  },
+  "dependencies": {
+    "antlr4": "^4.8.0",
+    "date-fn": "0.0.2",
+    "dayjs": "^1.10.4"
+  }
+}
